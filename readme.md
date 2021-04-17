@@ -12,7 +12,7 @@ I have put the binary file under [./uploads](./uploads/) however, in normal situ
 
 However, the steps might change project to project, it really depends on structure of the project and needs. 
 
-Blog post regarding to this repository can be found here:  [https://mrturkmen.com/deploy-with-ansible/](https://mrturkmen.com/deploy-with-ansible/)
+Blog post regarding to this repository can be found here:  [https://mrturkmen.com/posts/deploy-with-ansible/](https://mrturkmen.com/posts/deploy-with-ansible/)
 
 
 
